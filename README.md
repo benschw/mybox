@@ -1,3 +1,2 @@
-## mybox
-
-save your files to s3
+## Simple S3 File Transfer
+`ss3ft`
