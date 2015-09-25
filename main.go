@@ -51,7 +51,6 @@ func main() {
 func foo(fileToUpload string) ([]byte, string, string, error) {
 
 	file, err := os.Open(fileToUpload)
-
 	if err != nil {
 		return nil, "", "", err
 	}
